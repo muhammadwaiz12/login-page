@@ -1,0 +1,46 @@
+.child1{
+    width: 40%;
+    height: 560px;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+}
+.child2{
+    width: 60%;
+    height: 560px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+i{
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px;
+}
+button{
+    background-color: rgb(20, 85, 204);
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+input{
+    width: 400px;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius: 8px;
+}
+ .child1 h1{
+    margin-top: 200px
+}
+.child2 h1{
+    margin-top: 100px;
+}
+a{
+    color: black;
+}
